@@ -1,0 +1,34 @@
+#include <stdio.h>
+#include <string.h>
+ 
+char* substring(char *destination, const char *source, int beg, int n)
+{
+    // copy `n` characters from the source string starting from
+    // `beg` index into the destination
+    strncpy(destination, (source + beg), n);
+    return destination;
+}
+ 
+void setup() {
+	Serial.begin(9600);
+}
+
+void loop() {
+	
+	while(Serial.available() > 0){
+		char source[] = Serial.readString();
+		    char des1[25];
+		char des2[25];
+		 
+		  
+		    substring(de1, source, 7, 7);
+		substring(des2, source, 14, 7);
+		 
+		
+		Serial.println(des1);
+		Serial.println(des2);
+	}
+	
+			   
+}
+
