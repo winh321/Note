@@ -3,7 +3,7 @@
 {"d":"d8bd3373-4eeb-38ef-bb99-0aae04dddc9c","v":"1","f":"https://www.facebook.com/koheart.moe","n":"Koheart Moe"},
 {"t":"20221015","d":"497759fb-c93c-3740-9ae9-0222569b3ad5","v":"1","f":"https://www.facebook.com/soung.lamin.35","n":"Sai Kaung Myat"},
 {"t":"20221022","d":"781dd65d-9cb6-3630-b972-ec66f1d42996","v":"1","f":"https://www.facebook.com/mr.reviver","n":"Ye Yint"},
-{"t":"20220705","d":"23b4d9da-788e-30f0-8439-760e28392efe","v":"1","f":"https://m.facebook.com/profile.php?id\u003d100011238094894","n":"နတ်လျှင်နောင်"}
-
+{"t":"20220705","d":"23b4d9da-788e-30f0-8439-760e28392efe","v":"1","f":"https://m.facebook.com/profile.php?id\u003d100011238094894","n":"နတ်လျှင်နောင်"},
+{"t":"20220830","d":"a15b625d-0f88-37dd-93ae-099d3e0bf3f9","v":"1","f":"","n":"Ma Yu Mah"}
 
 ]
