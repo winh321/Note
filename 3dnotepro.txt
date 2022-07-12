@@ -5,6 +5,8 @@
 {"t":"20221022","d":"781dd65d-9cb6-3630-b972-ec66f1d42996","v":"1","f":"https://www.facebook.com/mr.reviver","n":"Ye Yint"},
 {"t":"20220705","d":"23b4d9da-788e-30f0-8439-760e28392efe","v":"1","f":"https://m.facebook.com/profile.php?id\u003d100011238094894","n":"နတ်လျှင်နောင်"},
 {"t":"20220901","d":"a15b625d-0f88-37dd-93ae-099d3e0bf3f9","v":"1","f":"","n":"Ma Yu Mah"},
-{"t":"20220904","d":"80b48532-d6b9-3728-b1d0-8e9bbd5bf020","v":"1","f":"","n":"Khaing Zin Zin Win"}
+{"t":"20220904","d":"80b48532-d6b9-3728-b1d0-8e9bbd5bf020","v":"1","f":"","n":"Khaing Zin Zin Win"},
+{"t":"20221112","d":"9abe54d5-ed8d-3e48-8fd4-8a48127db2b3","v":"1","f":"","n":"Thanhtun Naing"}
+
 
 ]
