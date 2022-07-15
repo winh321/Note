@@ -3,10 +3,10 @@
 {"d":"d8bd3373-4eeb-38ef-bb99-0aae04dddc9c","v":"1","f":"https://www.facebook.com/koheart.moe","n":"Koheart Moe"},
 {"t":"20221015","d":"497759fb-c93c-3740-9ae9-0222569b3ad5","v":"1","f":"https://www.facebook.com/soung.lamin.35","n":"Sai Kaung Myat"},
 {"t":"20221022","d":"4ddfed2d-61fc-310a-9853-1e713aa63889","v":"1","f":"https://www.facebook.com/mr.reviver","n":"Ye Yint"},
-{"t":"20220705","d":"23b4d9da-788e-30f0-8439-760e28392efe","v":"1","f":"https://m.facebook.com/profile.php?id\u003d100011238094894","n":"နတ်လျှင်နောင်"},
 {"t":"20220901","d":"a15b625d-0f88-37dd-93ae-099d3e0bf3f9","v":"1","f":"","n":"Ma Yu Mah"},
 {"t":"20220904","d":"80b48532-d6b9-3728-b1d0-8e9bbd5bf020","v":"1","f":"","n":"Khaing Zin Zin Win"},
-{"t":"20221112","d":"9abe54d5-ed8d-3e48-8fd4-8a48127db2b3","v":"1","f":"","n":"Thanhtun Naing"}
+{"t":"20221112","d":"9abe54d5-ed8d-3e48-8fd4-8a48127db2b3","v":"1","f":"","n":"Thanhtun Naing"},
+{"t":"20220915","d":"d7102f4b-10a3-350b-90fc-031d8dc5503c","v":"1","f":"","n":"နတ်သျှင်နောင်"}
 
 
 ]
