@@ -6,7 +6,7 @@
 {"d":"39e1723c-6f09-3154-b7bd-a879aaf3ba55","v":"1","f":"","n":" U Hsan Hnin Oo"},
 
 {"t":"20221011","d":"edb94bf7-7db9-3f7b-a564-49d09bab196e","v":"1","f":"https://m.facebook.com/profile.php?id\u003d100014793043865","n":"Ye Myint Aung"},
-{"t":"20221015","d":"497759fb-c93c-3740-9ae9-0222569b3ad5","v":"1","f":"https://www.facebook.com/soung.lamin.35","n":"Sai Kaung Myat"},
+{"t":"20221015","d":"3c826db8-f8c5-3f85-99c8-c8d5abed3018","v":"1","f":"https://www.facebook.com/soung.lamin.35","n":"Sai Kaung Myat"},
 {"t":"20221022","d":"4ddfed2d-61fc-310a-9853-1e713aa63889","v":"1","f":"https://www.facebook.com/mr.reviver","n":"Ye Yint"},
 {"t":"20220901","d":"a15b625d-0f88-37dd-93ae-099d3e0bf3f9","v":"1","f":"","n":"Ma Yu Mah"},
 {"t":"20220904","d":"80b48532-d6b9-3728-b1d0-8e9bbd5bf020","v":"1","f":"","n":"Khaing Zin Zin Win"},
