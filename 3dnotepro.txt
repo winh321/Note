@@ -12,7 +12,7 @@
 {"d":"03bb0b93-7a19-3211-81f9-9a24192d30cd","v":"1","f":"","n":"Xie Xie"},
 {"d":"6a340a8c-f887-38d5-9a1e-d2221ad126f0","v":"1","f":"","n":"Xie Xie"},
 
-{"t":"20220915","d":"d7102f4b-10a3-350b-90fc-031d8dc5503c","v":"1","f":"","n":"နတ်သျှင်နောင်"},
+{"t":"20221116","d":"d7102f4b-10a3-350b-90fc-031d8dc5503c","v":"2","f":"","n":"နတ်သျှင်နောင်"},
 {"t":"20221011","d":"edb94bf7-7db9-3f7b-a564-49d09bab196e","v":"1","f":"https://m.facebook.com/profile.php?id\u003d100014793043865","n":"Ye Myint Aung"},
 {"t":"20221015","d":"3c826db8-f8c5-3f85-99c8-c8d5abed3018","v":"1","f":"https://www.facebook.com/soung.lamin.35","n":"Sai Kaung Myat"},
 {"t":"20221022","d":"4ddfed2d-61fc-310a-9853-1e713aa63889","v":"1","f":"https://www.facebook.com/mr.reviver","n":"Ye Yint"},
